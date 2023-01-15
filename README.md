@@ -12,7 +12,7 @@
 </ul>
 </div>
 
-![ Меню ](.assets/images/main.png)
+![ Меню ](assets/images/main.png)
 <br />
 
 ### Данный проект создавался на стеке:
