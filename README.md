@@ -1,6 +1,6 @@
 # Проект: Car App для аренды автомобилей. (Angular)
 
-### [ Ссылка на проект ](https://rassellek.github.io/cars-app-angular/)
+### [ Ссылка на проект ](https://rassellek.github.io/cars-hw/)
 
 ### Цель и задачи проекта:
 
